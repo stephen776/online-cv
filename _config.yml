@@ -14,10 +14,7 @@ style: styles-5
 name: Stephen Jacobs
 tagline: Full Stack Developer
 pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+summary: 'Self-motivated software engineer with nearly a decade of experience implementing software solutions working for multiple startups and government. Comfortable working in demanding, fast-paced environments and contributing to strategies to bring products to market. Have helped to launch multiple products with startups in the Pittsburgh area, working with cross-functional teams to design and implement software solutions in support of core business models.'
 
 #sidebar links
 email: stephenjacobs86@gmail.com
