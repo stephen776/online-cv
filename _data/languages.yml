@@ -1,9 +1,12 @@
 - language:
-  idiom: English
-  level: Native
+  idiom: Javascript
+  level: Advanced
 - language:
-  idiom: French
-  level: Professional
+  idiom: Python
+  level: Advanced
 - language:
-  idiom: Spanish
-  level: Professional
+  idiom: C#
+  level: Advanced
+- language:
+  idiom: HTML/CSS
+  level: Advanced
