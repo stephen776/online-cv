@@ -17,9 +17,10 @@ pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and pro
 summary: 'Self-motivated software engineer with nearly a decade of experience implementing software solutions working for multiple startups and government. Comfortable working in demanding, fast-paced environments and contributing to strategies to bring products to market. Have helped to launch multiple products with startups in the Pittsburgh area, working with cross-functional teams to design and implement software solutions in support of core business models.'
 
 #sidebar links
-email: stephenjacobs86@gmail.com
-phone: 724 344 7725
+# email: stephenjacobs86@gmail.com
+# phone: 724 344 7725
 # website: blog.webjeda.com #do not add http://
+stackoverflow: stackoverflow.com/users/story/428632?view=Timeline
 linkedin: stephen-jacobs-7468b53a
 github: stephen776
 # twitter: '@webjeda'
